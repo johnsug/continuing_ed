@@ -1,4 +1,4 @@
-This repo hosts my continuing education log (ce_log.csv) and an R script (**TBD.R**) to make sure I am in compliance with the continuing education requirements set by the Society of Actuaries to maintain my ASA credential.
+This repo hosts my continuing education log (ce_log.csv) and an quick R script (**TBD.R**) to check whether I am in compliance with the continuing education requirements set by the [Society of Actuaries](http://www.soa.org/) in order to maintain my [ASA crediential](https://www.soa.org/Actuarial-Profession/Get-Started/credentials.aspx).
 
 ### Continuing Education Requirements [*](https://www.soa.org/leadership/current-initiatives/cpd-faqs-section-b.aspx)
 * 60 units (50 hours) every two-years
