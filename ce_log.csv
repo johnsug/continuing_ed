@@ -1,7 +1,7 @@
 Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
 1/22/2015,2015,(Self Study),Entreleadership,Audiobook,No,Non-structured,Business/management,6.25,7.5
 2/11/2015,2015,RStudio,Github Webinar,Webinar,No,Structured,Job-relevant,1,1.2
-2/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Structured,Job-relevant,10,12
+2/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Non-structured,Job-relevant,10,12
 3/2/2015,2015,P4P Summit,Welcome,Conference,No,Structured,Job-relevant,0.17,0.2
 3/2/2015,2015,P4P Summit,Are We There Yet? Tales From The Field,Conference,No,Structured,Job-relevant,0.33,0.4
 3/2/2015,2015,P4P Summit,Paying for Value - What the Future Holds,Conference,No,Structured,Job-relevant,1,1.2
@@ -24,7 +24,7 @@ Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
 3/26/2015,2015,AMGA Conference,BreakThrough Care Center: A New Care Model for High-Risk Patients,Conference,No,Structured,Job-relevant,1.25,1.5
 3/26/2015,2015,AMGA Conference,"Clinical Research:  An innovative Avenue to Enhance Outcomes, Reduce Cost, and Drive Engagement",Conference,No,Structured,Job-relevant,1.25,1.5
 3/26/2015,2015,AMGA Conference,The Art of Leadership,Conference,No,Structured,Business/management,1.5,1.8
-3/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Structured,Job-relevant,10,12
+3/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Non-structured,Job-relevant,10,12
 8/12/2015,2015,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,1,1.2
 8/12/2015,2015,Data Con,I'm non-adherent baby so why don't you help me?,Conference,Yes,Structured,Job-relevant,0.5,0.6
 8/12/2015,2015,Data Con,Bringing Tableau to the Table,Conference,Yes,Structured,Job-relevant,0.5,0.6
@@ -32,5 +32,5 @@ Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
 8/12/2015,2015,Data Con,Payer Games: How to Prioritize Value Based Metrics,Conference,Yes,Structured,Job-relevant,0.5,0.6
 8/12/2015,2015,Data Con,Using R and knitr to create a single source for generating reports …,Conference,Yes,Structured,Job-relevant,0.5,0.6
 8/12/2015,2015,Data Con,By Our Powers Combined: Ensemble Models,Conference,Yes,Structured,Job-relevant,0.5,0.6
-9/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Structured,Job-relevant,10,12
-10/5/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Structured,Job-relevant,2,2.4
+9/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Non-structured,Job-relevant,10,12
+10/5/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Non-structured,Job-relevant,2,2.4
