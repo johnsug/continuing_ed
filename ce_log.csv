@@ -1,7 +1,62 @@
 Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
-1/22/2015,2015,(Self Study),Entreleadership,Audiobook,No,Non-structured,Business/management,6.25,7.5
-2/11/2015,2015,RStudio,Github Webinar,Webinar,No,Structured,Job-relevant,1,1.2
-2/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Non-structured,Job-relevant,10,12
+9/28/2017,2017,Caravan Health,Legal Landminds,Structured,Yes,Structured,Professionalism,2.5,3
+3/10/2017,2017,P4P Summit,Keynote: Federal Initiatives in VBP,Meeting,No,Structured,Job-relevant,1,1.2
+3/10/2017,2017,P4P Summit,The Role of Health Insurance Exchanges in VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/10/2017,2017,P4P Summit,Findings from Stanford National Study...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/10/2017,2017,P4P Summit,National Best Practices in Hospital/Health Systems VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,Keynote Address: From Obamacare to Trumpcare,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,The Criteria and Standards Underlying P4P/VBC...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,CA Regional Health Care Cost & Quality Atlas,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,Addressing Regional and Product Line Performance Variation...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,Collaborative Solutions to Challenges...,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,Physician Organization VBP Innovation...,Meeting,No,Structured,Job-relevant,0.75,0.9
+3/9/2017,2017,P4P Summit,Why Purchasers Have to Drive VBP,Meeting,No,Structured,Job-relevant,0.5,0.6
+3/9/2017,2017,P4P Summit,Benchmarking Commercial Total Cost of Care...,Meeting,No,Structured,Job-relevant,1.25,1.5
+3/9/2017,2017,P4P Summit,A Systematic Approach to Behavioral Determinants...,Meeting,No,Structured,Job-relevant,1.25,1.5
+3/9/2017,2017,P4P Summit,Daily Patient-generated Data...,Meeting,No,Structured,Job-relevant,1.25,1.5
+11/16/2016,2016,CHC,Keynote,Meeting,Yes,Structured,Job-relevant,1.00,1.2
+9/28/2016,2016,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
+6/29/2016,2016,HFMA Conference,Healthcare Innovation Panel,Conference,No,Structured,Job-relevant,1.5,1.8
+6/29/2016,2016,HFMA Conference,Industry Trends and Credit Issues,Conference,No,Structured,Job-relevant,1.25,1.5
+6/29/2016,2016,HFMA Conference,Becoming a Value-Based Care Partner: Using Data to Identify Gaps,Conference,No,Structured,Job-relevant,1.75,2.1
+6/28/2016,2016,HFMA Conference,Using Propensity-to-Pay Scoring to Maximize Self-Pay Reimbursement,Conference,No,Structured,Job-relevant,0.83,1
+6/28/2016,2016,HFMA Conference,What Drives Patient Loyalty,Conference,No,Structured,Job-relevant,1.25,1.5
+6/28/2016,2016,HFMA Conference,Leveraging Clinical Insights to Drive Cost Savings,Conference,No,Structured,Job-relevant,1.25,1.5
+6/28/2016,2016,HFMA Conference,Using Hierarchical Conditional Categories to Manage Population Health,Conference,No,Structured,Job-relevant,1.25,1.5
+6/28/2016,2016,HFMA Conference,Creating a Virtual CBO While Integrating Technology and Predictive Analytics,Conference,No,Structured,Job-relevant,1.25,1.5
+6/27/2016,2016,HFMA Conference,The Future of Medicine is in Your Hands,Conference,No,Structured,Job-relevant,1.5,1.8
+6/27/2016,2016,HFMA Conference,Finding a Better Way Toward Patient-Centered Medicine,Conference,No,Structured,Job-relevant,1.25,1.5
+6/27/2016,2016,HFMA Conference,Beyond Cost Accounting: Using Visual Data Analysis to Integrate Cost Data,Conference,No,Structured,Job-relevant,1.25,1.5
+6/13/2016,2016,Cerner,HIPAA Training,WBT,Yes,Structured,Professionalism,1,1.2
+4/21/2016,2016,Cerner,Targeted Selection,Training,Yes,Structured,Professionalism,2,2.4
+4/06/2016,2016,MCOL,Value of ACA Coding Improvement: Market Share/Market Effects,Webinar,No,Structured,Job-relevant,1,1.2
+2/24/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,6.5,7.8
+2/23/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,7,8.4
+12/19/2015,2015,JHU / Coursera,Data Science Specialization 08: Practical Machine Learning,Coursera Course,No,Non-structured,Job-relevant,8,9.6
+11/17/2015,2015,JHU / Coursera,Data Science Specialization 06: Statistical Inference,Coursera Course,No,Non-structured,Job-relevant,7,8.4
+10/5/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Non-structured,Job-relevant,2,2.4
+9/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Non-structured,Job-relevant,10,12
+8/12/2015,2015,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,1,1.2
+8/12/2015,2015,Data Con,I'm non-adherent baby so why don't you help me?,Conference,Yes,Structured,Job-relevant,0.5,0.6
+8/12/2015,2015,Data Con,Bringing Tableau to the Table,Conference,Yes,Structured,Job-relevant,0.5,0.6
+8/12/2015,2015,Data Con,Modeling non-linear effect for continuous covariate…,Conference,Yes,Structured,Job-relevant,0.5,0.6
+8/12/2015,2015,Data Con,Payer Games: How to Prioritize Value Based Metrics,Conference,Yes,Structured,Job-relevant,0.5,0.6
+8/12/2015,2015,Data Con,Using R and knitr to [generate] reports …,Conference,Yes,Structured,Job-relevant,0.5,0.6
+8/12/2015,2015,Data Con,By Our Powers Combined: Ensemble Models,Conference,Yes,Structured,Job-relevant,0.5,0.6
+3/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Non-structured,Job-relevant,10,12
+3/26/2015,2015,AMGA Conference,Why Employers Need Healthcare Reform to Succeed,Conference,No,Structured,Job-relevant,2,2.4
+3/26/2015,2015,AMGA Conference,BreakThrough Care Center: A New Care Model...,Conference,No,Structured,Job-relevant,1.25,1.5
+3/26/2015,2015,AMGA Conference,"Clinical Research: An Innovative Avenue...",Conference,No,Structured,Job-relevant,1.25,1.5
+3/26/2015,2015,AMGA Conference,The Art of Leadership,Conference,No,Structured,Business/management,1.5,1.8
+3/25/2015,2015,AMGA Conference,Healthcare 2015 and Beyond...,Conference,No,Structured,Job-relevant,2,2.4
+3/25/2015,2015,AMGA Conference,Charting a Course to Value...,Conference,No,Structured,Job-relevant,1.25,1.5
+3/25/2015,2015,AMGA Conference,Succeed with Population Health Management...,Conference,No,Structured,Job-relevant,1.25,1.5
+3/24/2015,2015,AMGA Conference,The Future of Payment Models...,Conference,No,Structured,Job-relevant,1.5,1.8
 3/2/2015,2015,P4P Summit,Welcome,Conference,No,Structured,Job-relevant,0.17,0.2
 3/2/2015,2015,P4P Summit,Are We There Yet? Tales From The Field,Conference,No,Structured,Job-relevant,0.33,0.4
 3/2/2015,2015,P4P Summit,Paying for Value - What the Future Holds,Conference,No,Structured,Job-relevant,1,1.2
@@ -16,60 +71,6 @@ Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
 3/4/2015,2015,P4P Summit,From ACOs to Joint Ventures...,Conference,No,Structured,Job-relevant,1.5,1.8
 3/4/2015,2015,P4P Summit,Using Regional Health Improvement Collaboratives...,Conference,No,Structured,Job-relevant,0.5,0.6
 3/4/2015,2015,P4P Summit,Moving from Fee-for-Service to Fee-for-Value...,Conference,No,Structured,Job-relevant,1,1.2
-3/24/2015,2015,AMGA Conference,The Future of Payment Models...,Conference,No,Structured,Job-relevant,1.5,1.8
-3/25/2015,2015,AMGA Conference,Healthcare 2015 and Beyond...,Conference,No,Structured,Job-relevant,2,2.4
-3/25/2015,2015,AMGA Conference,Charting a Course to Value...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/25/2015,2015,AMGA Conference,Succeed with Population Health Management...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/26/2015,2015,AMGA Conference,Why Employers Need Healthcare Reform to Succeed,Conference,No,Structured,Job-relevant,2,2.4
-3/26/2015,2015,AMGA Conference,BreakThrough Care Center: A New Care Model...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/26/2015,2015,AMGA Conference,"Clinical Research: An Innovative Avenue...",Conference,No,Structured,Job-relevant,1.25,1.5
-3/26/2015,2015,AMGA Conference,The Art of Leadership,Conference,No,Structured,Business/management,1.5,1.8
-3/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Non-structured,Job-relevant,10,12
-8/12/2015,2015,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,1,1.2
-8/12/2015,2015,Data Con,I'm non-adherent baby so why don't you help me?,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Bringing Tableau to the Table,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Modeling non-linear effect for continuous covariate…,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Payer Games: How to Prioritize Value Based Metrics,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Using R and knitr to [generate] reports …,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,By Our Powers Combined: Ensemble Models,Conference,Yes,Structured,Job-relevant,0.5,0.6
-9/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Non-structured,Job-relevant,10,12
-10/5/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Non-structured,Job-relevant,2,2.4
-11/17/2015,2015,JHU / Coursera,Data Science Specialization 06: Statistical Inference,Coursera Course,No,Non-structured,Job-relevant,7,8.4
-12/19/2015,2015,JHU / Coursera,Data Science Specialization 08: Practical Machine Learning,Coursera Course,No,Non-structured,Job-relevant,8,9.6
-2/23/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,7,8.4
-2/24/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,6.5,7.8
-4/06/2016,2016,MCOL,Value of ACA Coding Improvement: Market Share/Market Effects,Webinar,No,Structured,Job-relevant,1,1.2
-4/21/2016,2016,Cerner,Targeted Selection,Training,Yes,Structured,Professionalism,2,2.4
-6/13/2016,2016,Cerner,HIPAA Training,WBT,Yes,Structured,Professionalism,1,1.2
-6/27/2016,2016,HFMA Conference,The Future of Medicine is in Your Hands,Conference,No,Structured,Job-relevant,1.5,1.8
-6/27/2016,2016,HFMA Conference,Finding a Better Way Toward Patient-Centered Medicine,Conference,No,Structured,Job-relevant,1.25,1.5
-6/27/2016,2016,HFMA Conference,Beyond Cost Accounting: Using Visual Data Analysis to Integrate Cost Data,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Using Propensity-to-Pay Scoring to Maximize Self-Pay Reimbursement,Conference,No,Structured,Job-relevant,0.83,1
-6/28/2016,2016,HFMA Conference,What Drives Patient Loyalty,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Leveraging Clinical Insights to Drive Cost Savings,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Using Hierarchical Conditional Categories to Manage Population Health,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Creating a Virtual CBO While Integrating Technology and Predictive Analytics,Conference,No,Structured,Job-relevant,1.25,1.5
-6/29/2016,2016,HFMA Conference,Healthcare Innovation Panel,Conference,No,Structured,Job-relevant,1.5,1.8
-6/29/2016,2016,HFMA Conference,Industry Trends and Credit Issues,Conference,No,Structured,Job-relevant,1.25,1.5
-6/29/2016,2016,HFMA Conference,Becoming a Value-Based Care Partner: Using Data to Identify Gaps,Conference,No,Structured,Job-relevant,1.75,2.1
-9/28/2016,2016,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
-11/16/2016,2016,CHC,Keynote,Meeting,Yes,Structured,Job-relevant,1.00,1.2
-3/9/2017,2017,P4P Summit,Keynote Address: From Obamacare to Trumpcare,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,The Criteria and Standards Underlying P4P/VBC...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,CA Regional Health Care Cost & Quality Atlas,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Addressing Regional and Product Line Performance Variation...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Collaborative Solutions to Challenges...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Physician Organization VBP Innovation...,Meeting,No,Structured,Job-relevant,0.75,0.9
-3/9/2017,2017,P4P Summit,Why Purchasers Have to Drive VBP,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Benchmarking Commercial Total Cost of Care...,Meeting,No,Structured,Job-relevant,1.25,1.5
-3/9/2017,2017,P4P Summit,A Systematic Approach to Behavioral Determinants...,Meeting,No,Structured,Job-relevant,1.25,1.5
-3/9/2017,2017,P4P Summit,Daily Patient-generated Data...,Meeting,No,Structured,Job-relevant,1.25,1.5
-3/10/2017,2017,P4P Summit,Keynote: Federal Initiatives in VBP,Meeting,No,Structured,Job-relevant,1,1.2
-3/10/2017,2017,P4P Summit,The Role of Health Insurance Exchanges in VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/10/2017,2017,P4P Summit,Findings from Stanford National Study...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/10/2017,2017,P4P Summit,National Best Practices in Hospital/Health Systems VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
+2/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Non-structured,Job-relevant,10,12
+2/11/2015,2015,RStudio,Github Webinar,Webinar,No,Structured,Job-relevant,1,1.2
+1/22/2015,2015,(Self Study),Entreleadership,Audiobook,No,Non-structured,Business/management,6.25,7.5
