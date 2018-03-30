@@ -1,5 +1,5 @@
 Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
-3/30/2018,2018,American Management Association,The Art of Extraordinary Customer Service,Webinar,No,Structured,Professionalism,.5,1
+3/30/2018,2018,AMA,The Art of Extraordinary Customer Service,Webinar,No,Structured,Professionalism,.5,1
 9/28/2017,2017,Caravan Health,Legal Landminds,Internal Meeting,Yes,Structured,Professionalism,2.5,3
 3/10/2017,2017,P4P Summit,Keynote: Federal Initiatives in VBP,Meeting,No,Structured,Job-relevant,1,1.2
 3/10/2017,2017,P4P Summit,The Role of Health Insurance Exchanges in VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
@@ -16,12 +16,12 @@ Date,Year,Host,Event,Format,Employer,Structure,Category,Hours,Credits
 3/9/2017,2017,P4P Summit,A Systematic Approach to Behavioral Determinants...,Meeting,No,Structured,Job-relevant,1.25,1.5
 3/9/2017,2017,P4P Summit,Daily Patient-generated Data...,Meeting,No,Structured,Job-relevant,1.25,1.5
 11/16/2016,2016,CHC,Keynote,Meeting,Yes,Structured,Job-relevant,1.00,1.2
-9/28/2016,2016,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
+9/28/2016,2016,Cerner Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
 6/29/2016,2016,HFMA Conference,Healthcare Innovation Panel,Conference,No,Structured,Job-relevant,1.5,1.8
 6/29/2016,2016,HFMA Conference,Industry Trends and Credit Issues,Conference,No,Structured,Job-relevant,1.25,1.5
 6/29/2016,2016,HFMA Conference,Becoming a Value-Based Care Partner: Using Data to Identify Gaps,Conference,No,Structured,Job-relevant,1.75,2.1
