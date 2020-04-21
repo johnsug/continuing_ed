@@ -30,31 +30,31 @@ Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credi
 4/10/2019,2019,Garmin Dev Conference,DC Rainmaker Keytone,Conference,No,Structured,Job-relevant,0.83,1
 4/10/2019,2019,Garmin Dev Conference,Make Your Apps Dance and Sing,Conference,No,Structured,Job-relevant,0.83,1
 4/10/2019,2019,Garmin Dev Conference,Welcome,Conference,No,Structured,Job-relevant,0.83,1
-12/06/2018,2018,Caravan Health,Hospital Strategies for Shared Savings,Conference,Yes,Structured,Job-relevant,0.5,0.6
-12/06/2018,2018,Caravan Health,Lessons Learned on Behavioral Health Integration,Conference,Yes,Structured,Job-relevant,0.83,1.0
-12/06/2018,2018,Caravan Health,Exceeding Quality - How to Maximize Clinical Outcomes,Conference,Yes,Structured,Job-relevant,0.5,0.6
-12/06/2018,2018,Caravan Health,What is New with Promoting Interoperability,Conference,Yes,Structured,Job-relevant,0.5,0.6
-12/06/2018,2018,Caravan Health,Breaking Down Siloes,Conference,Yes,Structured,Job-relevant,0.75,0.9
-12/05/2018,2018,Caravan Health,Welcome,Conference,Yes,Structured,Job-relevant,0.75,0.9
-12/05/2018,2018,Caravan Health,What's Next in Health Care,Conference,Yes,Structured,Job-relevant,1,1.2
-12/05/2018,2018,Caravan Health,Policy Panel - What's Changing in Health Care Policy After Midterms,Conference,Yes,Structured,Job-relevant,0.75,0.9
-12/05/2018,2018,Caravan Health,The Mississippi Model: How Hospitals are Preparing for Risk,Conference,Yes,Structured,Job-relevant,0.25,0.3
-12/05/2018,2018,Caravan Health,Annual Wellness Visits 101,Conference,Yes,Structured,Job-relevant,1.5,1.8
-12/05/2018,2018,Caravan Health,Attribution,Conference,Yes,Structured,Job-relevant,0.5,0.6
-12/05/2018,2018,Caravan Health,Introducing Lightbeam,Conference,Yes,Structured,Job-relevant,0.25,0.3
-12/05/2018,2018,Caravan Health,Introduction to Compass,Conference,Yes,Structured,Job-relevant,0.25,0.3
+12/06/2018,2018,Caravan Health / Symposium,Hospital Strategies for Shared Savings,Conference,Yes,Structured,Job-relevant,0.5,0.6
+12/06/2018,2018,Caravan Health / Symposium,Lessons Learned on Behavioral Health Integration,Conference,Yes,Structured,Job-relevant,0.83,1.0
+12/06/2018,2018,Caravan Health / Symposium,Exceeding Quality - How to Maximize Clinical Outcomes,Conference,Yes,Structured,Job-relevant,0.5,0.6
+12/06/2018,2018,Caravan Health / Symposium,What is New with Promoting Interoperability,Conference,Yes,Structured,Job-relevant,0.5,0.6
+12/06/2018,2018,Caravan Health / Symposium,Breaking Down Siloes,Conference,Yes,Structured,Job-relevant,0.75,0.9
+12/05/2018,2018,Caravan Health / Symposium,Welcome,Conference,Yes,Structured,Job-relevant,0.75,0.9
+12/05/2018,2018,Caravan Health / Symposium,What's Next in Health Care,Conference,Yes,Structured,Job-relevant,1,1.2
+12/05/2018,2018,Caravan Health / Symposium,Policy Panel - What's Changing in Health Care Policy After Midterms,Conference,Yes,Structured,Job-relevant,0.75,0.9
+12/05/2018,2018,Caravan Health / Symposium,The Mississippi Model: How Hospitals are Preparing for Risk,Conference,Yes,Structured,Job-relevant,0.25,0.3
+12/05/2018,2018,Caravan Health / Symposium,Annual Wellness Visits 101,Conference,Yes,Structured,Job-relevant,1.5,1.8
+12/05/2018,2018,Caravan Health / Symposium,Attribution,Conference,Yes,Structured,Job-relevant,0.5,0.6
+12/05/2018,2018,Caravan Health / Symposium,Introducing Lightbeam,Conference,Yes,Structured,Job-relevant,0.25,0.3
+12/05/2018,2018,Caravan Health / Symposium,Introduction to Compass,Conference,Yes,Structured,Job-relevant,0.25,0.3
 12/05/2018,2018,Self Preparation,Prep for 'Introduction to Compass' Talk,Speaking Prep,Yes,Non-structured,Job-relevant,5,6
 11/30/2018,2018,Caravan Health,DISC Team Training,Internal Trailing,Yes,Structured,Professionalism,2,2.4
 9/18/2018,2018,Self Preparation,Prep for 'Caravan Compass Updates' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
 7/18/2018,2018,Self Preparation,Prep for 'Introduction to Compass' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
 5/23/2018,2018,Caravan Health,Collaborative ACOs: The Future of Accountable Care Panel,Webinar,Yes,Structured,Job-relevant,1.0,1.2
-5/04/2018,2018,ODSC East 2018,Analyzing Space - Spacial Data Science Methods,Conference,No,Structured,Job-relevant,0.75,0.9
-5/04/2018,2018,ODSC East 2018,Meet the Expert - Data Science in HR / People Analytics,Conference,No,Structured,Job-relevant,0.75,0.9
-5/04/2018,2018,ODSC East 2018,Singal Processing for Machine Learning,Conference,No,Structured,Job-relevant,0.75,0.9
-5/03/2018,2018,ODSC East 2018,Recommending the Best Hotels at TripAdvisor,Conference,No,Structured,Job-relevant,0.83,1
-5/03/2018,2018,ODSC East 2018,Data Science in Healthcare,Conference,No,Structured,Job-relevant,.83,1
-5/01/2018,2018,ODSC East 2018,General Machine Learning in R Pt. 2,Conference,No,Structured,Job-relevant,4,4.8
-5/01/2018,2018,ODSC East 2018,General Machine Learning in R Pt. 1,Conference,No,Structured,Job-relevant,4,4.8
+5/04/2018,2018,ODSC East,Analyzing Space - Spacial Data Science Methods,Conference,No,Structured,Job-relevant,0.75,0.9
+5/04/2018,2018,ODSC East,Meet the Expert - Data Science in HR / People Analytics,Conference,No,Structured,Job-relevant,0.75,0.9
+5/04/2018,2018,ODSC East,Singal Processing for Machine Learning,Conference,No,Structured,Job-relevant,0.75,0.9
+5/03/2018,2018,ODSC East,Recommending the Best Hotels at TripAdvisor,Conference,No,Structured,Job-relevant,0.83,1
+5/03/2018,2018,ODSC East,Data Science in Healthcare,Conference,No,Structured,Job-relevant,.83,1
+5/01/2018,2018,ODSC East,General Machine Learning in R Pt. 2,Conference,No,Structured,Job-relevant,4,4.8
+5/01/2018,2018,ODSC East,General Machine Learning in R Pt. 1,Conference,No,Structured,Job-relevant,4,4.8
 4/18/2018,2018,Garmin Dev Conference,Welcome and Keynote,Conference,No,Structured,Job-relevant,0.5,0.6
 4/18/2018,2018,Garmin Dev Conference,Garmin Product Announcements,Conference,No,Structured,Job-relevant,1.5,1.8
 4/18/2018,2018,Garmin Dev Conference,Ray Maker Keynote,Conference,No,Structured,Job-relevant,0.83,1.0
