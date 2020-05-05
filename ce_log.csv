@@ -23,15 +23,15 @@ Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credi
 12/11/2019,2019,Caravan Health / Symposium,Buying Health in North Carolina,Conference,Yes,Structured,Job-relevant,.75,0.9
 12/11/2019,2019,Caravan Health / Symposium,Welcom from Caravan's CEO,Conference,Yes,Structured,Job-relevant,.167,.2
 12/09/2019,2019,Caravan Health,Compass Partnership Training,Training,Yes,Structured,Job-relevant,.83,1
-9/17/2019,2019,Data Science Central,Mathematical Optimization + ML,Webinar,No,Structured,Job-relevant,1,1.2
-8/15/2019,2019,Open Data Science Conference,When Holt-Winters is better than Machine Learning...,Webinar,No,Structured,Job-relevant,1,1.2
-5/09/2019,2019,Caravan Health,Management Training,Internal Meeting,Yes,Structured,Professionalism,6,7.2
-5/08/2019,2019,Crucial Conversations,Crucial Conversations,Internal Meeting,No,Structured,Professionalism,6,7.2
-5/02/2019,2019,Caravan Health,Facilitator Training,Internal Meeting,Yes,Structured,Professionalsim,1.5,1.8
-5/01/2019,2019,Caravan Health,Wellness,Internal Meeting,Yes,Structured,Professionalsim,.5,.6
-4/10/2019,2019,Garmin Dev Conference,DC Rainmaker Keytone,Conference,No,Structured,Job-relevant,0.83,1
-4/10/2019,2019,Garmin Dev Conference,Make Your Apps Dance and Sing,Conference,No,Structured,Job-relevant,0.83,1
-4/10/2019,2019,Garmin Dev Conference,Welcome,Conference,No,Structured,Job-relevant,0.83,1
+09/17/2019,2019,Data Science Central,Mathematical Optimization + ML,Webinar,No,Structured,Job-relevant,1,1.2
+08/15/2019,2019,Open Data Science Conference,When Holt-Winters is better than Machine Learning...,Webinar,No,Structured,Job-relevant,1,1.2
+05/09/2019,2019,Caravan Health,Management Training,Internal Meeting,Yes,Structured,Professionalism,6,7.2
+05/08/2019,2019,Crucial Conversations,Crucial Conversations,Internal Meeting,No,Structured,Professionalism,6,7.2
+05/02/2019,2019,Caravan Health,Facilitator Training,Internal Meeting,Yes,Structured,Professionalsim,1.5,1.8
+05/01/2019,2019,Caravan Health,Wellness,Internal Meeting,Yes,Structured,Professionalsim,.5,.6
+04/10/2019,2019,Garmin Dev Conference,DC Rainmaker Keytone,Conference,No,Structured,Job-relevant,0.83,1
+04/10/2019,2019,Garmin Dev Conference,Make Your Apps Dance and Sing,Conference,No,Structured,Job-relevant,0.83,1
+04/10/2019,2019,Garmin Dev Conference,Welcome,Conference,No,Structured,Job-relevant,0.83,1
 12/06/2018,2018,Caravan Health / Symposium,Hospital Strategies for Shared Savings,Conference,Yes,Structured,Job-relevant,0.5,0.6
 12/06/2018,2018,Caravan Health / Symposium,Lessons Learned on Behavioral Health Integration,Conference,Yes,Structured,Job-relevant,0.83,1.0
 12/06/2018,2018,Caravan Health / Symposium,Exceeding Quality - How to Maximize Clinical Outcomes,Conference,Yes,Structured,Job-relevant,0.5,0.6
@@ -47,94 +47,94 @@ Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credi
 12/05/2018,2018,Caravan Health / Symposium,Introduction to Compass,Conference,Yes,Structured,Job-relevant,0.25,0.3
 12/05/2018,2018,Self Preparation,Prep for 'Introduction to Compass' Talk,Speaking Prep,Yes,Non-structured,Job-relevant,5,6
 11/30/2018,2018,Caravan Health,DISC Team Training,Internal Trailing,Yes,Structured,Professionalism,2,2.4
-9/18/2018,2018,Self Preparation,Prep for 'Caravan Compass Updates' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
-7/18/2018,2018,Self Preparation,Prep for 'Introduction to Compass' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
-5/23/2018,2018,Caravan Health,Collaborative ACOs: The Future of Accountable Care Panel,Webinar,Yes,Structured,Job-relevant,1.0,1.2
-5/04/2018,2018,ODSC East,Analyzing Space - Spacial Data Science Methods,Conference,No,Structured,Job-relevant,0.75,0.9
-5/04/2018,2018,ODSC East,Meet the Expert - Data Science in HR / People Analytics,Conference,No,Structured,Job-relevant,0.75,0.9
-5/04/2018,2018,ODSC East,Singal Processing for Machine Learning,Conference,No,Structured,Job-relevant,0.75,0.9
-5/03/2018,2018,ODSC East,Recommending the Best Hotels at TripAdvisor,Conference,No,Structured,Job-relevant,0.83,1
-5/03/2018,2018,ODSC East,Data Science in Healthcare,Conference,No,Structured,Job-relevant,.83,1
-5/01/2018,2018,ODSC East,General Machine Learning in R Pt. 2,Conference,No,Structured,Job-relevant,4,4.8
-5/01/2018,2018,ODSC East,General Machine Learning in R Pt. 1,Conference,No,Structured,Job-relevant,4,4.8
-4/18/2018,2018,Garmin Dev Conference,Welcome and Keynote,Conference,No,Structured,Job-relevant,0.5,0.6
-4/18/2018,2018,Garmin Dev Conference,Garmin Product Announcements,Conference,No,Structured,Job-relevant,1.5,1.8
-4/18/2018,2018,Garmin Dev Conference,Ray Maker Keynote,Conference,No,Structured,Job-relevant,0.83,1.0
-4/17/2018,2018,Chris Locurto,Unconventional Ways to Inspire Your Team,Podcast,No,Structured,Business/management,0.42,0.5
-4/16/2018,2018,Caravan Health,Collaborative ACOs: The Future of Accountable Care,Webinar,Yes,Structured,Job-relevant,1.0,1.2
-3/30/2018,2018,AMA,The Art of Extraordinary Customer Service,WBT,No,Structured,Professionalism,0.5,1
-9/28/2017,2017,Caravan Health,Legal Landminds,Internal Meeting,Yes,Structured,Professionalism,2.5,3
-3/10/2017,2017,P4P Summit,Keynote: Federal Initiatives in VBP,Meeting,No,Structured,Job-relevant,1,1.2
-3/10/2017,2017,P4P Summit,The Role of Health Insurance Exchanges in VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/10/2017,2017,P4P Summit,Findings from Stanford National Study...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/10/2017,2017,P4P Summit,National Best Practices in Hospital/Health Systems VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Keynote Address: From Obamacare to Trumpcare,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,The Criteria and Standards Underlying P4P/VBC...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,CA Regional Health Care Cost & Quality Atlas,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Addressing Regional and Product Line Performance Variation...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Collaborative Solutions to Challenges...,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Physician Organization VBP Innovation...,Meeting,No,Structured,Job-relevant,0.75,0.9
-3/9/2017,2017,P4P Summit,Why Purchasers Have to Drive VBP,Meeting,No,Structured,Job-relevant,0.5,0.6
-3/9/2017,2017,P4P Summit,Benchmarking Commercial Total Cost of Care...,Meeting,No,Structured,Job-relevant,1.25,1.5
-3/9/2017,2017,P4P Summit,A Systematic Approach to Behavioral Determinants...,Meeting,No,Structured,Job-relevant,1.25,1.5
-3/9/2017,2017,P4P Summit,Daily Patient-generated Data...,Meeting,No,Structured,Job-relevant,1.25,1.5
+09/18/2018,2018,Self Preparation,Prep for 'Caravan Compass Updates' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
+07/18/2018,2018,Self Preparation,Prep for 'Introduction to Compass' Webinar,Speaking Prep,No,Non-structured,Job-relevant,5,6
+05/23/2018,2018,Caravan Health,Collaborative ACOs: The Future of Accountable Care Panel,Webinar,Yes,Structured,Job-relevant,1.0,1.2
+05/04/2018,2018,ODSC East,Analyzing Space - Spacial Data Science Methods,Conference,No,Structured,Job-relevant,0.75,0.9
+05/04/2018,2018,ODSC East,Meet the Expert - Data Science in HR / People Analytics,Conference,No,Structured,Job-relevant,0.75,0.9
+05/04/2018,2018,ODSC East,Singal Processing for Machine Learning,Conference,No,Structured,Job-relevant,0.75,0.9
+05/03/2018,2018,ODSC East,Recommending the Best Hotels at TripAdvisor,Conference,No,Structured,Job-relevant,0.83,1
+05/03/2018,2018,ODSC East,Data Science in Healthcare,Conference,No,Structured,Job-relevant,.83,1
+05/01/2018,2018,ODSC East,General Machine Learning in R Pt. 2,Conference,No,Structured,Job-relevant,4,4.8
+05/01/2018,2018,ODSC East,General Machine Learning in R Pt. 1,Conference,No,Structured,Job-relevant,4,4.8
+04/18/2018,2018,Garmin Dev Conference,Welcome and Keynote,Conference,No,Structured,Job-relevant,0.5,0.6
+04/18/2018,2018,Garmin Dev Conference,Garmin Product Announcements,Conference,No,Structured,Job-relevant,1.5,1.8
+04/18/2018,2018,Garmin Dev Conference,Ray Maker Keynote,Conference,No,Structured,Job-relevant,0.83,1.0
+04/17/2018,2018,Chris Locurto,Unconventional Ways to Inspire Your Team,Podcast,No,Structured,Business/management,0.42,0.5
+04/16/2018,2018,Caravan Health,Collaborative ACOs: The Future of Accountable Care,Webinar,Yes,Structured,Job-relevant,1.0,1.2
+03/30/2018,2018,AMA,The Art of Extraordinary Customer Service,WBT,No,Structured,Professionalism,0.5,1
+09/28/2017,2017,Caravan Health,Legal Landminds,Internal Meeting,Yes,Structured,Professionalism,2.5,3
+03/10/2017,2017,P4P Summit,Keynote: Federal Initiatives in VBP,Meeting,No,Structured,Job-relevant,1,1.2
+03/10/2017,2017,P4P Summit,The Role of Health Insurance Exchanges in VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/10/2017,2017,P4P Summit,Findings from Stanford National Study...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/10/2017,2017,P4P Summit,National Best Practices in Hospital/Health Systems VBP...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,Keynote Address: From Obamacare to Trumpcare,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,The Criteria and Standards Underlying P4P/VBC...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,CA Regional Health Care Cost & Quality Atlas,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,Addressing Regional and Product Line Performance Variation...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,Collaborative Solutions to Challenges...,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,Physician Organization VBP Innovation...,Meeting,No,Structured,Job-relevant,0.75,0.9
+03/09/2017,2017,P4P Summit,Why Purchasers Have to Drive VBP,Meeting,No,Structured,Job-relevant,0.5,0.6
+03/09/2017,2017,P4P Summit,Benchmarking Commercial Total Cost of Care...,Meeting,No,Structured,Job-relevant,1.25,1.5
+03/09/2017,2017,P4P Summit,A Systematic Approach to Behavioral Determinants...,Meeting,No,Structured,Job-relevant,1.25,1.5
+03/09/2017,2017,P4P Summit,Daily Patient-generated Data...,Meeting,No,Structured,Job-relevant,1.25,1.5
 11/16/2016,2016,CHC,Keynote,Meeting,Yes,Structured,Job-relevant,1.00,1.2
-9/28/2016,2016,Cerner Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Cerner Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Cerner Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Cerner Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Cerner Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
-9/28/2016,2016,Cerner Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
-6/29/2016,2016,HFMA Conference,Healthcare Innovation Panel,Conference,No,Structured,Job-relevant,1.5,1.8
-6/29/2016,2016,HFMA Conference,Industry Trends and Credit Issues,Conference,No,Structured,Job-relevant,1.25,1.5
-6/29/2016,2016,HFMA Conference,Becoming a Value-Based Care Partner: Using Data to Identify Gaps,Conference,No,Structured,Job-relevant,1.75,2.1
-6/28/2016,2016,HFMA Conference,Using Propensity-to-Pay Scoring to Maximize Self-Pay Reimbursement,Conference,No,Structured,Job-relevant,0.83,1
-6/28/2016,2016,HFMA Conference,What Drives Patient Loyalty,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Leveraging Clinical Insights to Drive Cost Savings,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Using Hierarchical Conditional Categories to Manage Population Health,Conference,No,Structured,Job-relevant,1.25,1.5
-6/28/2016,2016,HFMA Conference,Creating a Virtual CBO While Integrating Technology and Predictive Analytics,Conference,No,Structured,Job-relevant,1.25,1.5
-6/27/2016,2016,HFMA Conference,The Future of Medicine is in Your Hands,Conference,No,Structured,Job-relevant,1.5,1.8
-6/27/2016,2016,HFMA Conference,Finding a Better Way Toward Patient-Centered Medicine,Conference,No,Structured,Job-relevant,1.25,1.5
-6/27/2016,2016,HFMA Conference,Beyond Cost Accounting: Using Visual Data Analysis to Integrate Cost Data,Conference,No,Structured,Job-relevant,1.25,1.5
-6/13/2016,2016,Cerner,HIPAA Training,WBT,Yes,Structured,Professionalism,1,1.2
-4/21/2016,2016,Cerner,Targeted Selection,Training,Yes,Structured,Professionalism,2,2.4
-4/06/2016,2016,MCOL,Value of ACA Coding Improvement: Market Share/Market Effects,Webinar,No,Structured,Job-relevant,1,1.2
-2/24/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,6.5,7.8
-2/23/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,7,8.4
+09/28/2016,2016,Cerner Data Con,Keynote,Conference,Yes,Structured,Job-relevant,0.67,0.8
+09/28/2016,2016,Cerner Data Con,Performant Visualizations with Tableau,Conference,Yes,Structured,Job-relevant,0.67,0.8
+09/28/2016,2016,Cerner Data Con,Survival Analysis,Conference,Yes,Structured,Job-relevant,0.67,0.8
+09/28/2016,2016,Cerner Data Con,Robust Predictions from Noisy CLUEs,Conference,Yes,Structured,Job-relevant,0.67,0.8
+09/28/2016,2016,Cerner Data Con,Different Chart Types & How to Use Them ... Properly,Conference,Yes,Structured,Job-relevant,0.67,0.8
+09/28/2016,2016,Cerner Data Con,Text Analytics in R,Conference,Yes,Structured,Job-relevant,0.67,0.8
+06/29/2016,2016,HFMA Conference,Healthcare Innovation Panel,Conference,No,Structured,Job-relevant,1.5,1.8
+06/29/2016,2016,HFMA Conference,Industry Trends and Credit Issues,Conference,No,Structured,Job-relevant,1.25,1.5
+06/29/2016,2016,HFMA Conference,Becoming a Value-Based Care Partner: Using Data to Identify Gaps,Conference,No,Structured,Job-relevant,1.75,2.1
+06/28/2016,2016,HFMA Conference,Using Propensity-to-Pay Scoring to Maximize Self-Pay Reimbursement,Conference,No,Structured,Job-relevant,0.83,1
+06/28/2016,2016,HFMA Conference,What Drives Patient Loyalty,Conference,No,Structured,Job-relevant,1.25,1.5
+06/28/2016,2016,HFMA Conference,Leveraging Clinical Insights to Drive Cost Savings,Conference,No,Structured,Job-relevant,1.25,1.5
+06/28/2016,2016,HFMA Conference,Using Hierarchical Conditional Categories to Manage Population Health,Conference,No,Structured,Job-relevant,1.25,1.5
+06/28/2016,2016,HFMA Conference,Creating a Virtual CBO While Integrating Technology and Predictive Analytics,Conference,No,Structured,Job-relevant,1.25,1.5
+06/27/2016,2016,HFMA Conference,The Future of Medicine is in Your Hands,Conference,No,Structured,Job-relevant,1.5,1.8
+06/27/2016,2016,HFMA Conference,Finding a Better Way Toward Patient-Centered Medicine,Conference,No,Structured,Job-relevant,1.25,1.5
+06/27/2016,2016,HFMA Conference,Beyond Cost Accounting: Using Visual Data Analysis to Integrate Cost Data,Conference,No,Structured,Job-relevant,1.25,1.5
+06/13/2016,2016,Cerner,HIPAA Training,WBT,Yes,Structured,Professionalism,1,1.2
+04/21/2016,2016,Cerner,Targeted Selection,Training,Yes,Structured,Professionalism,2,2.4
+04/06/2016,2016,MCOL,Value of ACA Coding Improvement: Market Share/Market Effects,Webinar,No,Structured,Job-relevant,1,1.2
+02/24/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,6.5,7.8
+02/23/2016,2016,CAS,Predictive Modeling Limited Attendance Seminar: Day One,Conference,No,Structured,Job-relevant,7,8.4
 12/19/2015,2015,JHU / Coursera,Data Science Specialization 08: Practical Machine Learning,Coursera Course,No,Non-structured,Job-relevant,8,9.6
 11/17/2015,2015,JHU / Coursera,Data Science Specialization 06: Statistical Inference,Coursera Course,No,Non-structured,Job-relevant,7,8.4
-10/5/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Non-structured,Job-relevant,2,2.4
-9/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Non-structured,Job-relevant,10,12
-8/12/2015,2015,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,1,1.2
-8/12/2015,2015,Data Con,I'm non-adherent baby so why don't you help me?,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Bringing Tableau to the Table,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Modeling non-linear effect for continuous covariate…,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Payer Games: How to Prioritize Value Based Metrics,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,Using R and knitr to [generate] reports …,Conference,Yes,Structured,Job-relevant,0.5,0.6
-8/12/2015,2015,Data Con,By Our Powers Combined: Ensemble Models,Conference,Yes,Structured,Job-relevant,0.5,0.6
-3/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Non-structured,Job-relevant,10,12
-3/26/2015,2015,AMGA Conference,Why Employers Need Healthcare Reform to Succeed,Conference,No,Structured,Job-relevant,2,2.4
-3/26/2015,2015,AMGA Conference,BreakThrough Care Center: A New Care Model...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/26/2015,2015,AMGA Conference,"Clinical Research: An Innovative Avenue...",Conference,No,Structured,Job-relevant,1.25,1.5
-3/26/2015,2015,AMGA Conference,The Art of Leadership,Conference,No,Structured,Business/management,1.5,1.8
-3/25/2015,2015,AMGA Conference,Healthcare 2015 and Beyond...,Conference,No,Structured,Job-relevant,2,2.4
-3/25/2015,2015,AMGA Conference,Charting a Course to Value...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/25/2015,2015,AMGA Conference,Succeed with Population Health Management...,Conference,No,Structured,Job-relevant,1.25,1.5
-3/24/2015,2015,AMGA Conference,The Future of Payment Models...,Conference,No,Structured,Job-relevant,1.5,1.8
-3/2/2015,2015,P4P Summit,Welcome,Conference,No,Structured,Job-relevant,0.17,0.2
-3/2/2015,2015,P4P Summit,Are We There Yet? Tales From The Field,Conference,No,Structured,Job-relevant,0.33,0.4
-3/2/2015,2015,P4P Summit,Paying for Value - What the Future Holds,Conference,No,Structured,Job-relevant,1,1.2
-3/2/2015,2015,P4P Summit,Reinveting Primary Care...,Conference,No,Structured,Job-relevant,0.75,0.9
-3/2/2015,2015,P4P Summit,IHA's Value Based Pay for Performance Program,Conference,No,Structured,Job-relevant,1.5,1.8
-3/3/2015,2015,P4P Summit,"State Innovation Models, Round 2",Conference,No,Structured,Job-relevant,1.33,1.6
-3/3/2015,2015,P4P Summit,Identifying Positive Deviance...,Conference,No,Structured,Job-relevant,1.5,1.8
-3/3/2015,2015,P4P Summit,"Win, Win, Win; Approaches to Accountable Care...",Conference,No,Structured,Job-relevant,1,1.2
-3/3/2015,2015,P4P Summit,Lessons Learned in Implementing Bundled Payments...,Conference,No,Structured,Job-relevant,1.5,1.8
-3/3/2015,2015,P4P Summit,Population Health Management...,Conference,No,Structured,Job-relevant,1,1.2
-3/4/2015,2015,P4P Summit,The Future of Quality Measurement and Improvement,Conference,No,Structured,Job-relevant,0.75,0.9
-3/4/2015,2015,P4P Summit,From ACOs to Joint Ventures...,Conference,No,Structured,Job-relevant,1.5,1.8
-3/4/2015,2015,P4P Summit,Using Regional Health Improvement Collaboratives...,Conference,No,Structured,Job-relevant,0.5,0.6
-3/4/2015,2015,P4P Summit,Moving from Fee-for-Service to Fee-for-Value...,Conference,No,Structured,Job-relevant,1,1.2
-2/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Non-structured,Job-relevant,10,12
-2/11/2015,2015,RStudio,Github Webinar,Webinar,No,Structured,Job-relevant,1,1.2
-1/22/2015,2015,(Self Study),Entreleadership,Audiobook,No,Non-structured,Business/management,6.25,7.5
+10/05/2015,2015,JHU / Coursera,Data Science Specialization 04: Exploratory Data Analysis,Coursera Course,No,Non-structured,Job-relevant,2,2.4
+09/30/2015,2015,JHU / Coursera,Data Science Specialization 07: Regression Models,Coursera Course,No,Non-structured,Job-relevant,10,12
+08/12/2015,2015,Data Con,Keynote,Conference,Yes,Structured,Job-relevant,1,1.2
+08/12/2015,2015,Data Con,I'm non-adherent baby so why don't you help me?,Conference,Yes,Structured,Job-relevant,0.5,0.6
+08/12/2015,2015,Data Con,Bringing Tableau to the Table,Conference,Yes,Structured,Job-relevant,0.5,0.6
+08/12/2015,2015,Data Con,Modeling non-linear effect for continuous covariate…,Conference,Yes,Structured,Job-relevant,0.5,0.6
+08/12/2015,2015,Data Con,Payer Games: How to Prioritize Value Based Metrics,Conference,Yes,Structured,Job-relevant,0.5,0.6
+08/12/2015,2015,Data Con,Using R and knitr to [generate] reports …,Conference,Yes,Structured,Job-relevant,0.5,0.6
+08/12/2015,2015,Data Con,By Our Powers Combined: Ensemble Models,Conference,Yes,Structured,Job-relevant,0.5,0.6
+03/31/2015,2015,JHU / Coursera,Data Science Specialization 04: Reproducable Research,Coursera Course,No,Non-structured,Job-relevant,10,12
+03/26/2015,2015,AMGA Conference,Why Employers Need Healthcare Reform to Succeed,Conference,No,Structured,Job-relevant,2,2.4
+03/26/2015,2015,AMGA Conference,BreakThrough Care Center: A New Care Model...,Conference,No,Structured,Job-relevant,1.25,1.5
+03/26/2015,2015,AMGA Conference,"Clinical Research: An Innovative Avenue...",Conference,No,Structured,Job-relevant,1.25,1.5
+03/26/2015,2015,AMGA Conference,The Art of Leadership,Conference,No,Structured,Business/management,1.5,1.8
+03/25/2015,2015,AMGA Conference,Healthcare 2015 and Beyond...,Conference,No,Structured,Job-relevant,2,2.4
+03/25/2015,2015,AMGA Conference,Charting a Course to Value...,Conference,No,Structured,Job-relevant,1.25,1.5
+03/25/2015,2015,AMGA Conference,Succeed with Population Health Management...,Conference,No,Structured,Job-relevant,1.25,1.5
+03/24/2015,2015,AMGA Conference,The Future of Payment Models...,Conference,No,Structured,Job-relevant,1.5,1.8
+03/02/2015,2015,P4P Summit,Welcome,Conference,No,Structured,Job-relevant,0.17,0.2
+03/02/2015,2015,P4P Summit,Are We There Yet? Tales From The Field,Conference,No,Structured,Job-relevant,0.33,0.4
+03/02/2015,2015,P4P Summit,Paying for Value - What the Future Holds,Conference,No,Structured,Job-relevant,1,1.2
+03/02/2015,2015,P4P Summit,Reinveting Primary Care...,Conference,No,Structured,Job-relevant,0.75,0.9
+03/02/2015,2015,P4P Summit,IHA's Value Based Pay for Performance Program,Conference,No,Structured,Job-relevant,1.5,1.8
+03/03/2015,2015,P4P Summit,"State Innovation Models, Round 2",Conference,No,Structured,Job-relevant,1.33,1.6
+03/03/2015,2015,P4P Summit,Identifying Positive Deviance...,Conference,No,Structured,Job-relevant,1.5,1.8
+03/03/2015,2015,P4P Summit,"Win, Win, Win; Approaches to Accountable Care...",Conference,No,Structured,Job-relevant,1,1.2
+03/03/2015,2015,P4P Summit,Lessons Learned in Implementing Bundled Payments...,Conference,No,Structured,Job-relevant,1.5,1.8
+03/03/2015,2015,P4P Summit,Population Health Management...,Conference,No,Structured,Job-relevant,1,1.2
+03/04/2015,2015,P4P Summit,The Future of Quality Measurement and Improvement,Conference,No,Structured,Job-relevant,0.75,0.9
+03/04/2015,2015,P4P Summit,From ACOs to Joint Ventures...,Conference,No,Structured,Job-relevant,1.5,1.8
+03/04/2015,2015,P4P Summit,Using Regional Health Improvement Collaboratives...,Conference,No,Structured,Job-relevant,0.5,0.6
+03/04/2015,2015,P4P Summit,Moving from Fee-for-Service to Fee-for-Value...,Conference,No,Structured,Job-relevant,1,1.2
+02/28/2015,2015,JHU / Coursera,Data Science Specialization 09: Developing Data Products,Coursera Course,No,Non-structured,Job-relevant,10,12
+02/11/2015,2015,RStudio,Github Webinar,Webinar,No,Structured,Job-relevant,1,1.2
+01/22/2015,2015,(Self Study),Entreleadership,Audiobook,No,Non-structured,Business/management,6.25,7.5
