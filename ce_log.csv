@@ -1,16 +1,17 @@
 Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credits
-10/29/2020,2020,SOA Annual Conference,Closing Session,Conference,No,Structured,Job-relevent,1,1.2
-10/29/2020,2020,SOA Annual Conference,10E: Medicare for All and the Latest Wave of Health Policy Proposals,Conference,No,Structured,Job-relevent,1,1.2
-10/28/2020,2020,SOA Annual Conference,9E: Pricing/ Major Trends,Conference,No,Structured,Job-relevent,1,1.2
-10/28/2020,2020,SOA Annual Conference,8C: SOA's Health Care Cost Trends Research Update,Conference,No,Structured,Job-relevent,1,1.2
-10/28/2020,2020,SOA Annual Conference,7A: ASOP 56 on Modeling; Overview and Pharmacy Case Study,Conference,No,Structured,Job-relevent,1,1.2
-10/28/2020,2020,SOA Annual Conference,6E: Tour of Healthcare Funding Around the World,Conference,No,Structured,Job-relevent,1,1.2
-10/28/2020,2020,SOA Annual Conference,General Session,Conference,No,Structured,Job-relevent,1,1.2
-10/27/2020,2020,SOA Annual Conference,5B: Provider-Payer Collaboration to Address Social Determinants of Health,Conference,No,Structured,Job-relevent,1,1.2
-10/27/2020,2020,SOA Annual Conference,3D: Interpretability of Predictive Models in Underwriting,Conference,No,Structured,Job-relevent,1,1.2
-10/26/2020,2020,SOA Annual Conference,2D: Driving Actuarial Innovation,Conference,No,Structured,Job-relevent,0.5,0.6
-10/26/2020,2020,SOA Annual Conference,1A: Recent Advances in Healthcare Analytics,Conference,No,Structured,Job-relevent,0.5,0.6
-10/26/2020,2020,SOA Annual Conference,Opening General Sesssion,Conference,No,Structured,Job-relevent,1,1.2
+03/18/2021,2021,Essential Conversations Program,One-on-One Conversations,Training,No,Structured,Job-relevant,1.5,1.8
+10/29/2020,2020,SOA Annual Conference,Closing Session,Conference,No,Structured,Job-relevant,1,1.2
+10/29/2020,2020,SOA Annual Conference,10E: Medicare for All and the Latest Wave of Health Policy Proposals,Conference,No,Structured,Job-relevant,1,1.2
+10/28/2020,2020,SOA Annual Conference,9E: Pricing/ Major Trends,Conference,No,Structured,Job-relevant,1,1.2
+10/28/2020,2020,SOA Annual Conference,8C: SOA's Health Care Cost Trends Research Update,Conference,No,Structured,Job-relevant,1,1.2
+10/28/2020,2020,SOA Annual Conference,7A: ASOP 56 on Modeling; Overview and Pharmacy Case Study,Conference,No,Structured,Job-relevant,1,1.2
+10/28/2020,2020,SOA Annual Conference,6E: Tour of Healthcare Funding Around the World,Conference,No,Structured,Job-relevant,1,1.2
+10/28/2020,2020,SOA Annual Conference,General Session,Conference,No,Structured,Job-relevant,1,1.2
+10/27/2020,2020,SOA Annual Conference,5B: Provider-Payer Collaboration to Address Social Determinants of Health,Conference,No,Structured,Job-relevant,1,1.2
+10/27/2020,2020,SOA Annual Conference,3D: Interpretability of Predictive Models in Underwriting,Conference,No,Structured,Job-relevant,1,1.2
+10/26/2020,2020,SOA Annual Conference,2D: Driving Actuarial Innovation,Conference,No,Structured,Job-relevant,0.5,0.6
+10/26/2020,2020,SOA Annual Conference,1A: Recent Advances in Healthcare Analytics,Conference,No,Structured,Job-relevant,0.5,0.6
+10/26/2020,2020,SOA Annual Conference,Opening General Sesssion,Conference,No,Structured,Job-relevant,1,1.2
 10/08/2020,2020,Traliant,Preventing Discrimination & Harassment,Training,No,Structured,Professionalism,1,1.2
 09/24/2020,2020,Traliant,HIPAA for Business Associates,Training,No,Structured,Professionalism,1,1.2
 07/30/2020,2020,Caravan Health,Disc for Managers,Internal Training,Yes,Non-structured,Professionalism,1,1.2
@@ -22,7 +23,7 @@ Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credi
 05/13/2020,2020,AMA / Crisis Leadership,Crafting a Strategy for Your Negotiation,Webinar,No,Structured,Business/management,0.33,0.4
 05/13/2020,2020,AMA / Crisis Leadership,Leading with Emotional Intelligence in the Workplace,Webinar,No,Structured,Business/management,0.33,0.4
 05/13/2020,2020,AMA / Crisis Leadership,Creating a Motivational Climate,Webinar,No,Structured,Business/management,0.33,0.4
-05/13/2020,2020,Caravan Health,Compass HCC Dashboard & Facesheet Training,Webinar,Yes,Structured,Job-relevent,0.5,0.6
+05/13/2020,2020,Caravan Health,Compass HCC Dashboard & Facesheet Training,Webinar,Yes,Structured,Job-relevant,0.5,0.6
 05/11/2020,2020,AMA / Crisis Leadership,Turning Resistance and Conflict into Collaboration and Consensus,Webinar,No,Structured,Business/management,0.5,0.6
 05/11/2020,2020,AMA / Crisis Leadership,Managing Resistance to Change,Webinar,No,Structured,Business/management,0.33,0.4
 05/11/2020,2020,AMA / Crisis Leadership,Motivating and Influencing Throughout the Organization,Webinar,No,Structured,Business/management,0.5,0.6
@@ -30,20 +31,20 @@ Date,Year,Host / Conference,Event,Format,Employer,Structure,Category,Hours,Credi
 05/11/2020,2020,AMA / Crisis Leadership,Effective Problem Solving and Decision-Making Tools,Webinar,No,Structured,Business/management,0.5,0.6
 05/11/2020,2020,AMA / Crisis Leadership,Strategy Development and Execution: The ADEPTT Model,Webinar,No,Structured,Business/management,0.5,0.6
 05/08/2020,2020,AMA / Crisis Leadership,SEAL Approach to Building Organizational Agility,Webinar,No,Structured,Business/management,1,1.2
-05/08/2020,2020,Presentation Prep,Compass HCC Dashboard & Facesheet Training,Prep,No,Unstructured,Job-relevent,10,12
-05/06/2020,2020,Caravan Health,Medicare ACOs: The Latest Coronavirus-Related Changes,Webinar,Yes,Structured,Job-relevent,1,1.2
-05/05/2020,2020,Milliman,Estimating the Impact of COVID-19 on Healthcare Costs in 2020,Webinar,No,Structured,Job-relevent,1,1.2
-05/05/2020,2020,Caravan Health,COVID-19: Strategies for Accessing FCC Telehealth Funding,Webinar,Yes,Structured,Job-relevent,0.75,0.9
-04/23/2020,2020,Caravan Health,COVID-19 and the MSSP 2021 and Beyond,Webinar,Yes,Structured,Job-relevent,1,1.2
-04/21/2020,2020,Caravan Health,COVID-19: Understanding New Telehealth Flexibilities for RHCs and FQHCs,Webinar,Yes,Structured,Job-relevent,1,1.2
-04/10/2020,2020,Caravan Health,COVID-19 From the Frontline: Rural Leaders Share Their Experience,Webinar,Yes,Structured,Job-relevent,1,1.2
-04/09/2020,2020,Caravan Health,COVID-19 Revenue and Funding Opportunities/Challenges for Rural Hospitals,Webinar,Yes,Structured,Job-relevent,1,1.2
-04/03/2020,2020,Caravan Health,CMS Actions in Response to COVID Public Health,Webinar,Yes,Structured,Job-relevent,1,1.2
-04/02/2020,2020,Caravan Health,COVID-19: Rapidly Reeingineering Primary Care,Webinar,Yes,Structured,Job-relevent,1,1.2
-03/26/2020,2020,Caravan Health,COVID-19: The Telehelth Imperative,Webinar,Yes,Structured,Job-relevent,0.83,1.0
-03/20/2020,2020,Caravan Health,COVID-19: Primary Care Strategies to Support Care Delivery Methods,Webinar,Yes,Structured,Job-relevent,1,1.2
-03/19/2020,2020,Caravan Health,COVID-19 in Rural Areas: Social Determinants in a Pandemic,Webinar,Yes,Structured,Job-relevent,1,1.2
-02/27/2020,2020,American Partnership Group,Deep Dive in Risk Sharing Data Analytics,Webinar,Yes,Structured,Job-relevent,1,1.2
+05/08/2020,2020,Presentation Prep,Compass HCC Dashboard & Facesheet Training,Prep,No,Unstructured,Job-relevant,10,12
+05/06/2020,2020,Caravan Health,Medicare ACOs: The Latest Coronavirus-Related Changes,Webinar,Yes,Structured,Job-relevant,1,1.2
+05/05/2020,2020,Milliman,Estimating the Impact of COVID-19 on Healthcare Costs in 2020,Webinar,No,Structured,Job-relevant,1,1.2
+05/05/2020,2020,Caravan Health,COVID-19: Strategies for Accessing FCC Telehealth Funding,Webinar,Yes,Structured,Job-relevant,0.75,0.9
+04/23/2020,2020,Caravan Health,COVID-19 and the MSSP 2021 and Beyond,Webinar,Yes,Structured,Job-relevant,1,1.2
+04/21/2020,2020,Caravan Health,COVID-19: Understanding New Telehealth Flexibilities for RHCs and FQHCs,Webinar,Yes,Structured,Job-relevant,1,1.2
+04/10/2020,2020,Caravan Health,COVID-19 From the Frontline: Rural Leaders Share Their Experience,Webinar,Yes,Structured,Job-relevant,1,1.2
+04/09/2020,2020,Caravan Health,COVID-19 Revenue and Funding Opportunities/Challenges for Rural Hospitals,Webinar,Yes,Structured,Job-relevant,1,1.2
+04/03/2020,2020,Caravan Health,CMS Actions in Response to COVID Public Health,Webinar,Yes,Structured,Job-relevant,1,1.2
+04/02/2020,2020,Caravan Health,COVID-19: Rapidly Reeingineering Primary Care,Webinar,Yes,Structured,Job-relevant,1,1.2
+03/26/2020,2020,Caravan Health,COVID-19: The Telehelth Imperative,Webinar,Yes,Structured,Job-relevant,0.83,1.0
+03/20/2020,2020,Caravan Health,COVID-19: Primary Care Strategies to Support Care Delivery Methods,Webinar,Yes,Structured,Job-relevant,1,1.2
+03/19/2020,2020,Caravan Health,COVID-19 in Rural Areas: Social Determinants in a Pandemic,Webinar,Yes,Structured,Job-relevant,1,1.2
+02/27/2020,2020,American Partnership Group,Deep Dive in Risk Sharing Data Analytics,Webinar,Yes,Structured,Job-relevant,1,1.2
 12/12/2019,2019,Caravan Health / Symposium,Managing and Leading Change in a Competitive Environment,Conference,Yes,Structured,Job-relevant,,
 12/12/2019,2019,Caravan Health / Symposium,Time to Take High Blood Pressure to Heart,Conference,Yes,Structured,Job-relevant,,
 12/12/2019,2019,Caravan Health / Symposium,Improving Social Determinants of Health,Conference,Yes,Structured,Job-relevant,0.67,0.8
